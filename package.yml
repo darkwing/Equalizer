@@ -1,7 +1,7 @@
 name:  Equalizer
 author:  davidwalsh
-current:  
-category:  
-tags:  []
-docs:  
-demo:  
+current:  1.0
+category:  Utilities
+tags:  [dimensions,elements]
+docs:  http://davidwalsh.name/js/equalizer
+demo:  http://davidwalsh.name/mootools-equal-heights
